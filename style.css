@@ -1,0 +1,12 @@
+body{
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Lobster', cursive;
+    font-family: 'Poppins', sans-serif;
+}
+#heading-name-color{
+    color: goldenrod;
+}
+h1{
+    font-size: 50px;
+}
